@@ -17,7 +17,7 @@
     }
   },
   "icons": {
-    "16": "images/get_started16.png",
+    "16": "images/16x16.png",
     "32": "images/32x32.png",
     "48": "images/48x48.png",
     "128": "images/128x128.png"
