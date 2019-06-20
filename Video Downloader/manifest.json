@@ -1,0 +1,26 @@
+{
+  "name": "A Cloud Guru Video Downloader",
+  "version": "1.0",
+  "description": "You can open the video page and with a simple click you can download the page",
+  "permissions": ["activeTab", "declarativeContent", "storage","tabs", "<all_urls>","downloads"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/16x16.png",
+      "32": "images/32x32.png",
+      "48": "images/48x48.png",
+      "128": "images/128x128.png"
+    }
+  },
+  "icons": {
+    "16": "images/get_started16.png",
+    "32": "images/32x32.png",
+    "48": "images/48x48.png",
+    "128": "images/128x128.png"
+  },
+  "manifest_version": 2
+}
