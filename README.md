@@ -16,8 +16,8 @@
 Check out the video below for walkthrough.
 <p align="center">
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Jlt_DOUPdEU
-" target="_blank"><img src="https://i9.ytimg.com/vi/Jlt_DOUPdEU/mqdefault.jpg?time=1586714464175&sqp=CKCuzfQF&rs=AOn4CLCL2gURmVdcD6AbbeYZGCR-8eq5Lw" 
-alt="IMAGE ALT TEXT HERE" width="380" height="280" border="10" /></a>
+" target="_blank"><img src="http://pidugusundeep.in/images/acgd.png" 
+alt="acloudguru Video Downloader" width="440" height="300" border="10" /></a>
 </p>
 
 
