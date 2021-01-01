@@ -1,6 +1,6 @@
 {
   "name": "A Cloud Guru Video Downloader",
-  "version": "1.0",
+  "version": "1.2",
   "description": "You can open the video page and with a simple click you can download the page",
   "permissions": ["activeTab", "declarativeContent", "storage","tabs", "<all_urls>","downloads"],
   "background": {
