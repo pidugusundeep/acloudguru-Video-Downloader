@@ -4,7 +4,11 @@
   <img src="http://pidugusundeep.in/images/128x128.png" >
 </p>
 
-# Using the chrome extension
+# Download options 
+
+You can download this [extension](https://chrome.google.com/webstore/detail/a-cloud-guru-video-downlo/hdnlbojfcclonhkemkfmllflgoebfmfe?hl=en&authuser=0) from Google chrome web store, or build that extension for yourself using the below walkthrough
+
+# Building and Using the chrome extension
 1. Fork the repo and then clone the repo
 2. Open <b>[chrome://extensions/](chrome://extensions/)</b> in a chrome tab
 3. Enable <b>Developer Mode</b>
@@ -21,4 +25,4 @@ alt="acloudguru Video Downloader" width="440" height="300" border="10" /></a>
 </p>
 
 
-You are all good to use the extension on any course video in acloud.guru
+You are all good to use the extension on any course video at learn.acloud.guru
